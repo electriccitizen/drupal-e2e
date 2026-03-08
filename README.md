@@ -1,4 +1,4 @@
-# drupal-e2e
+# drupal-e2e [OLD]
 
 Generate Playwright E2E smoke tests from Drupal config YAML. Reads `config/sync/` and generates site-specific test configuration, then runs tests that create nodes with all paragraph types and assert zero JS errors.
 
